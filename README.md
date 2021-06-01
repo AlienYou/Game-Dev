@@ -15,6 +15,10 @@
 
 ## 图形渲染
 
+| 类型 | 说明 | 详情 |
+| :----: | :----: | :----: |
+| 《Real-Time Rendering》Fourth Edition |      |      |
+
 
 
 ## Shader
@@ -22,4 +26,13 @@
 
 
 ## 游戏设计
+
+
+
+## 杂项
+
+| 类型              | 说明 | 详情 |
+| :-----------------: | :----: | :----: |
+| 《游戏编程精粹1》 | 综合类 |      |
+| 《Mathematics for 3D Game Programming and Computer Graphics》Third Edition | 综合类 | |
 
